@@ -1,8 +1,8 @@
 #  Matriz de confusión(variables)
-TP = 40
-TN = 30
-FP = 20
-FN = 10
+TP = 45
+TN = 20
+FP = 50
+FN = 32
 
 # Medida de evaluacion para la Matriz
 rentabilidad = (TP + TN) / (TP + TN + FP + FN) 
